@@ -1,6 +1,6 @@
-streamlit==1.35.0
-gensim==4.3.2
-numpy==1.24.4
-scikit-learn==1.4.2
-PyPDF2==3.0.1
-pandas==2.2.2
+streamlit
+gensim
+numpy
+scikit-learn
+PyPDF2
+pandas

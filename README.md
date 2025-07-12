@@ -6,7 +6,7 @@ Upload your resume as a PDF or paste it as plain text.
 Automatically extracts and preprocesses resume content.
 Recommends job titles using a machine learning model.
 Lightweight and runs locally using Flask.
-
+```
 📁 Project Structure
 ├── app.py                  # Flask backend handling resume input and predictions
 ├── utils.py                # Utility functions: text preprocessing & recommendations
@@ -18,7 +18,8 @@ Lightweight and runs locally using Flask.
 ├── requirements.txt        # Python dependencies
 ├── .gitignore              # Standard ignore rules
 └── README.md               # This file
-
+```bash
+```
 🛠️ How It Works
 User submits a resume (PDF or text).
 The backend extracts and preprocesses the content.
@@ -30,7 +31,7 @@ The recommendations are displayed on the web interface.
 
 🧪 Running Locally
 1. Clone the repository:
-git clone https://github.com/nossks/Resume_Matcher
+git clone https://github.com/gautamsingh04/Resume Matcher
 cd Resume_Matcher
 
 2. Create a virtual environment and install dependencies:

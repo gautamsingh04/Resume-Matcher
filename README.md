@@ -31,7 +31,7 @@ The recommendations are displayed on the web interface.
 
 🧪 Running Locally
 1. Clone the repository:
-git clone https://github.com/gautamsingh04/Resume Matcher
+git clone https://github.com/gautamsingh04/ResumeMatcher
 cd Resume_Matcher
 
 2. Create a virtual environment and install dependencies:
